@@ -189,29 +189,7 @@ const Projects = () => {
       }
     }
   `);
-  // const dataw = {
-  //   edges: {
-  //     node: {
-  //       frontmatter: {
-  //         title: 'Экономический Факультет',
-  //         tech: 'МЕЖДУНАРОДНЫЙ КОЛЛЕДЖ БИЗНЕСА И ДИЗАЙНА',
-  //         github: 'Moscow',
-  //         external: ' 2003 - 2005',
-  //       },
-  //       html: '<ul>\n<li>Получал среднее-специальное образование </li>\n</ul>',
-  //     },
-  //     node: {
-  //       frontmatter: {
-  //         title: 'Экономический Факультет',
-  //         tech: 'МЕЖДУНАРОДНЫЙ КОЛЛЕДЖ БИЗНЕСА И ДИЗАЙНА',
-  //         github: 'Moscow',
-  //         external: ' 2003 - 2005',
-  //       },
-  //       html: '<ul>\n<li>Получал среднее-специальное образование </li>\n</ul>',
-  //     },
-  //   },
-  // };
-// console.log(dataw);
+
   const [showMore, setShowMore] = useState(false);
   const revealTitle = useRef(null);
   const revealArchiveLink = useRef(null);

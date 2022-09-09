@@ -3,7 +3,7 @@ date: '2'
 title: 'Интернет магазин пицц'
 cover: './pizza.png'
 github: 'https://github.com/Klim-Somov/React-Food'
-external: 'https://acdemia-bar.web.app/'
+external: ''
 tech:
   - React
   - Redux Toolkit
